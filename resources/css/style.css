@@ -86,3 +86,17 @@ body {
 .gift-img4:hover {
     background-image: url(../images/badass.gif);
 }
+
+.gift-img5 {
+    width: 400px;
+    height: 200px;
+    border: 5px solid white;
+    border-radius: 10px;
+    background-image: url(../images/gift-cover.jpg);
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.gift-img5:hover {
+    background-image: url(../images/cheers.gif);
+}
